@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duyaryigit&label=Profile%20views&color=0e75b6&style=flat" alt="duyaryigit" /> </p>
 
-- 💬 Ask me about **Python,ML,AI**
+- 💬 Ask me about **Python, ML, AI**
 
 - 📫 How to reach me **duyaryigithan@gmail.com**
 
