@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=duyaryigit&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="duyaryigit" /></p>
 
 
-- 🌱 I’m currently learning **Python, ML , AI**
+- 🌱 I’m currently learning **Golang, C#, Python, ML**
 
 - 📫 How to reach me **yigithand1@gmail.com**
 
