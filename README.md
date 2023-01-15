@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang, C#, Python, ML**
 
-- 📫 How to reach me **yigithand1@gmail.com**
+- 📫 How to reach me **yigithanduyar@gmail.com**
 
 
 
