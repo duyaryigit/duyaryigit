@@ -17,6 +17,7 @@
 <a href="https://instagram.com/duyaryigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duyaryigit" height="30" width="40" /></a>
 <a href="https://medium.com/@duyaryigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@duyaryigit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/duyaryigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="duyaryigit" height="30" width="40" /></a>
+<a href="https://kaggle.com/duyaryigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="duyaryigit" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duyaryigit&show_icons=true&theme=tokyonight&locale=en" alt="duyaryigit" /></p>
