@@ -28,4 +28,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duyaryigit&label=Profile%20views&color=0e75b6&style=flat" alt="duyaryigit" /> </p> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=767AB1&width=435&lines=%22There's+always+one+more+bug+to+fix.%22%F0%9F%A6%B8%F0%9F%8F%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&pause=1000&color=767AB1&repeat=false&width=435&lines=%22Let+the+dataset+change+your+mindset.%22%E2%9C%94%EF%B8%8F)](https://git.io/typing-svg)
