@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=duyaryigit&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="duyaryigit" /></p>
 
 
-- 🌱 I’m currently learning **Python, ML**
+- 🌱 I’m currently learning **Python, ML, DS**
 
 - 📫 How to reach me **yigithanduyar@gmail.com**
 
