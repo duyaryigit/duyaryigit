@@ -1,4 +1,4 @@
-<h1 align="center">print('Hi 👋, I\'m Yiğithan')</h1>
+<h1 align="center">print("Hi 👋, I'm Yiğithan")</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 
 <p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=duyaryigit&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="duyaryigit" /></p>
