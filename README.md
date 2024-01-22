@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **yigithanduyar@gmail.com**
 
-- 🦸🏽 I'm Data Science and Machine Learning Bootcamp Assistant Mentor at <a href="https://www.miuul.com">Miuul</a>.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
